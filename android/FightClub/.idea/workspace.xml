@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6749eca1-fa7a-49cb-81a5-03494ac3547c" name="Default" comment="" />
+    <list default="true" id="c0d916a2-5862-46bc-8ea9-8ac757259316" name="Default" comment="" />
     <ignored path="FightClub.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/User.java" changelist="6749eca1-fa7a-49cb-81a5-03494ac3547c" time="1369689697525" ignored="false" />
-    <file path="/FightClub.java" changelist="6749eca1-fa7a-49cb-81a5-03494ac3547c" time="1369689724836" ignored="false" />
+    <file path="/FightClub.java" changelist="c0d916a2-5862-46bc-8ea9-8ac757259316" time="1369688278889" ignored="false" />
+    <file path="/AppsUtil.java" changelist="c0d916a2-5862-46bc-8ea9-8ac757259316" time="1369688215254" ignored="false" />
+    <file path="$PROJECT_DIR$/build/source/r/debug/com/apps/gamedevelopment/fightclub/R.java" changelist="c0d916a2-5862-46bc-8ea9-8ac757259316" time="1369689475516" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/res/layout/fightclub_fullscreen.xml" changelist="c0d916a2-5862-46bc-8ea9-8ac757259316" time="1369689475516" ignored="false" />
+    <file path="$PROJECT_DIR$/build/res/all/debug/layout/fightclub_fullscreen.xml" changelist="c0d916a2-5862-46bc-8ea9-8ac757259316" time="1369689475516" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -56,7 +60,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -64,44 +67,49 @@
   <component name="FavoritesManager">
     <favorites_list name="FightClub" />
   </component>
-<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FightClub.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FightClub/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
+      <file leaf-file-name="FightClub.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="25" selection-start="310" selection-end="310" vertical-scroll-proportion="0.23364486">
+            <state line="72" column="3" selection-start="2620" selection-end="2620" vertical-scroll-proportion="-32.307693">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4029#4318#0" expanded="true" />
+                <element signature="e#4307#4308#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemUiHiderHoneycomb.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/util/SystemUiHiderHoneycomb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="457" selection-end="457" vertical-scroll-proportion="-0.24770643">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-=======
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/FightClub/src/main/java/com/apps/gamedevelopment/fightclub/server/User.java" />
-        <option value="$PROJECT_DIR$/FightClub/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java" />
+        <option value="$PROJECT_DIR$/Util/src/main/java/com/apps/util/AppsUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java" />
       </list>
     </option>
   </component>
-=======
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="22" />
-    <option name="width" value="1420" />
+    <option name="width" value="1260" />
     <option name="height" value="706" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -130,11 +138,7 @@
       <sortByType />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-=======
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,6 +146,14 @@
               <option name="myItemId" value="FightClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android 4.2.2 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -149,49 +161,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
+              <option name="myItemId" value="FightClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-<<<<<<< HEAD
-        </subPane>
-      </pane>
-=======
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="FightClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
+              <option name="myItemId" value="FightClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RSSReader" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FightClub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FightClub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fightclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FightClub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FightClub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fightclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.sorted" value="false" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FightClub" />
-=======
-    <property name="recentsLimit" value="5" />
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Android Application.FightClub">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -281,27 +347,7 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FightClub" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="FightClub" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <RunnerSettings RunnerId="AndroidDebugRunner" />
-      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android Application.FightClub" />
-    </list>
+    <list size="0" />
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -319,28 +365,22 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6749eca1-fa7a-49cb-81a5-03494ac3547c" name="Default" comment="" />
-      <created>1369686457108</created>
-      <updated>1369686457108</updated>
-<<<<<<< HEAD
-      <workItem from="1369686471073" duration="1391000" />
-=======
-      <workItem from="1369686471073" duration="34000" />
-      <workItem from="1369689788742" duration="76000" />
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
+      <changelist id="c0d916a2-5862-46bc-8ea9-8ac757259316" name="Default" comment="" />
+      <created>1369687152546</created>
+      <updated>1369687152546</updated>
+      <workItem from="1369687153937" duration="247000" />
+      <workItem from="1369687408139" duration="1064000" />
+      <workItem from="1369688962400" duration="63000" />
+      <workItem from="1369689177789" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="1391000" />
-=======
-    <option name="totallyTimeSpent" value="110000" />
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
+    <option name="totallyTimeSpent" value="1714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="706" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="22" width="1260" height="706" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -354,17 +394,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3558952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> 698c7193983fa94aa720eff25efdf81c0cbddfba
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4645799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -430,12 +465,43 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FightClub/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="310" selection-end="310" vertical-scroll-proportion="0.23364486">
+        <state line="64" column="36" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4029#4318#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="36" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4029#4318#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/FightClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="3" selection-start="2620" selection-end="2620" vertical-scroll-proportion="-32.307693">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4029#4318#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/apps/gamedevelopment/fightclub/util/SystemUiHiderHoneycomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="457" selection-end="457" vertical-scroll-proportion="-0.24770643">
+          <folding />
         </state>
       </provider>
     </entry>

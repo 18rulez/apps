@@ -54,6 +54,7 @@
       <sourceFolder url="file://$MODULE_DIR$/FightClub/src/instrumentTest/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/FightClub/src/instrumentTest/res" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/FightClub/src/instrumentTest/resources" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/FightClub/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/FightClub/build/apk" />
       <excludeFolder url="file://$MODULE_DIR$/FightClub/build/assets" />
       <excludeFolder url="file://$MODULE_DIR$/FightClub/build/bundles" />
