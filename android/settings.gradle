@@ -1,1 +1,1 @@
-include ':FightClub'
+include ':FightClub', ':RSSReader'
