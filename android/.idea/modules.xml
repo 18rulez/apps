@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FightClub.iml" filepath="$PROJECT_DIR$/FightClub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSSReader.iml" filepath="$PROJECT_DIR$/RSSReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
     </modules>
   </component>
